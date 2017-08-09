@@ -1,0 +1,8 @@
+hash: 533a957ffc3a27d96b3a9ae38588ec2543420317b4c91365bb92842e2923d69f
+updated: 2017-08-06T07:24:49.88136462Z
+imports:
+- name: github.com/BurntSushi/toml
+  version: b26d9c308763d68093482582cea63d69be07a0f0
+- name: github.com/labstack/echo
+  version: 935a60782cbbc55110e7bd4b33120e4567cbee43
+testImports: []

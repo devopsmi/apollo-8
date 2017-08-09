@@ -1,0 +1,12 @@
+[apollo8]
+host = "0.0.0.0"
+port = "4000"
+username = "apollo8"
+password = "admin"
+websrc = "/home/ubuntu/workspace/apollo-8-ui/dist"
+
+[nginx]
+dir = "/etc/nginx/conf.d"
+
+[services]
+dir = "./"
