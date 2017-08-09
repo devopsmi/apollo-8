@@ -1,0 +1,6 @@
+package: github.com/monolog.id/apollo-8
+import:
+- package: github.com/labstack/echo
+  version: v3.2.1
+- package: github.com/BurntSushi/toml
+  version: v0.3.0
